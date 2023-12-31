@@ -1,10 +1,30 @@
-6a7
-> fd
-11a13
-> lazygit
-14a17
-> neovim
-17a21
-> ripgrep
-18a23
-> unzip
+ark
+base
+base-devel
+bpytop
+dolphin
+egl-wayland
+fd
+firefox
+grub
+htop
+kate
+kitty
+lazygit
+lsd
+nano
+neofetch
+neovim
+network-manager-applet
+plasma-meta
+plasma-wayland-session
+ripgrep
+sshpass
+ttf-fira-code
+unzip
+vi
+vim
+wget
+wireless_tools
+xorg-xinit
+zram-generator
